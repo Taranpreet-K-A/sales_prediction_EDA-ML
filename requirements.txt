@@ -1,0 +1,8 @@
+Libraries used:
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+joblib
